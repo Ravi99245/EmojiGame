@@ -1,0 +1,30 @@
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  background-color: #ffffff30;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.score-container {
+  display: flex;
+  align-items: center;
+}
+
+.name {
+  margin-left: 2px;
+  font-weight: 500;
+}
+
+.score {
+  margin-right: 20px;
+  font-size: 18px;
+  font-weight: 400;
+}
